@@ -1,0 +1,5 @@
+host: "localhost"
+port: 4003
+max_conn: 1
+model_path: "meta-llama/Meta-Llama-3-8B-Instruct"
+

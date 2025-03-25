@@ -1,0 +1,52 @@
+{
+    "seed": 1234,
+    "num_workers": 8,
+    "batch_size": 512,
+    "training_steps": 400e3,
+    "stdout_interval": 5,
+    "checkpoint_interval": 5000,
+    "summary_interval": 100,
+    "validation_interval": 5000,
+
+    "optim": {
+        "lr": 2e-4,
+        "betas": [0.9, 0.999],
+        "weight_decay": 0
+    },
+    "ema_decay": 0.999,
+    "amp": {
+        "enabled": true,
+        "init_scale": 65536
+    },
+    "scheduler": {
+        "gamma": 1.0
+    },
+    "clip_grad_norm": 1,
+
+    "emb_channels": 128,
+    "ref_channels": 256,
+    "ure_channels": 256,
+    "wn_layers": 20,
+    "wn_channels": 256,
+    "ts_channels": 256,
+    "cfg_p": 0.1,
+    "cfg_s": 2,
+
+    "T": 1000,
+    "beta_0": 0.000001,
+    "beta_T": 0.01,
+    "N": 8,
+
+    "sampling_rate": 22050,
+    "segment_size": 2,
+    "km_rate": 50,
+    "num_km": 500,
+    "n_fft": 1024,
+    "hop_size": 256,
+    "win_size": 1024,
+    "num_mels": 80,
+    "fmin": 0,
+    "fmax": 8000,
+    "mel_m": -5,
+    "mel_s": 5
+}

@@ -1,0 +1,7 @@
+host: "localhost"
+port: 4003
+max_conn: 1
+model:
+  model_name: "taipei1/spml-omni-instruct-step19698"
+  model_path: ""
+  tensorrt_engine_dir: ""

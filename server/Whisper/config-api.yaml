@@ -1,0 +1,11 @@
+host: "localhost"
+port: 4009
+max_conn: 1
+
+language: zh
+min-chunk-size: 0.3
+model: large-v2
+backend: openai-api
+buffer_trimming: segment
+vad: True 
+buffer_trimming_sec: 15

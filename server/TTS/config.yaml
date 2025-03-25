@@ -1,0 +1,4 @@
+host: "localhost"
+port: 4005
+max_conn: 1
+segmentation: comma # punctuation / fixlength / comma

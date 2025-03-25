@@ -1,0 +1,10 @@
+0:
+  name: "SPML SpokenLM"
+  host: 140.112.21.16
+  port: 43007
+  max_conn: 1
+1:
+  name: "Cascade SpokenLM"
+  host: 140.112.21.16
+  port: 43008
+  max_conn: 1

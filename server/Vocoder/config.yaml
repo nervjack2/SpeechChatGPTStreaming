@@ -1,0 +1,5 @@
+host: "localhost"
+port: 4004
+max_conn: 1
+vocoder_cfg: "_data/vocoder_ckpt/config.json"
+model_path: "_data/vocoder_ckpt/model.bin"

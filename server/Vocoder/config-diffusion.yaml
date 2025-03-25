@@ -1,0 +1,6 @@
+host: "localhost"
+port: 4004
+max_conn: 1
+vocoder_cfg: "server/Vocoder/src/diffusion/config.json"
+model_path: "server/Vocoder/src/diffusion/ckpt/m_00240000"
+seed: 0

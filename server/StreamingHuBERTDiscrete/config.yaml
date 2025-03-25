@@ -1,0 +1,7 @@
+host: "localhost"
+port: 4008
+max_conn: 1
+
+min-chunk-size: 0.1 # DO NOT CHANGE THIS
+max-buffer-size: 1.0 # DO NOT CHANGE THIS
+km_model: server/StreamingHuBERTDiscrete/km_500_inf.pt

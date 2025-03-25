@@ -1,0 +1,13 @@
+host: "localhost"
+port: 43007
+max_conn: 1
+
+asr:
+  host: "localhost"
+  port: 4007
+llm:
+  host: "localhost"
+  port: 4006
+tts:
+  host: "localhost"
+  port: 4005
