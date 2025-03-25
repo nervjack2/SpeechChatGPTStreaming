@@ -1,5 +1,7 @@
 # SpeechChatGPTStreaming
 
+This system was jointly developed by Wei-Ping Huang, En-Pei Hu, Tzu-Quan Lin and Liang-Hsuan Tseng from the Speech Processing and Machine Learning Lab at National Taiwan University.
+
 ## System
 
 #### Flow
