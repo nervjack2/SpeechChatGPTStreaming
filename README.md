@@ -2,6 +2,8 @@
 
 This system was jointly developed by Wei-Ping Huang, En-Pei Hu, Tzu-Quan Lin and Liang-Hsuan Tseng from the Speech Processing and Machine Learning Lab at National Taiwan University.
 
+Please see the paper for more information: [https://arxiv.org/abs/2411.07111](https://arxiv.org/abs/2411.07111)
+
 ## System
 
 #### Flow
